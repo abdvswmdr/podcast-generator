@@ -1,4 +1,4 @@
-  name: "Podcast Generator"
+  name: "Podcast Genn"
   author: "Abdulswamad Rama"
   description: "A GitHub Action to generate podcast RSS feed from a YAML in a repository."
   runs:
